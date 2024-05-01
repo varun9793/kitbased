@@ -1,0 +1,66 @@
+h1{
+    font-size: 5rem;
+    color:white;
+    font-family: "arvo" cursive;
+    text-shadow: 3px 0 #DA0463;
+
+}
+
+body{
+    background-color: rgb(193, 193, 230);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(193, 193, 230);
+    font-family: sans-serif;
+}
+
+.drum{
+    outline:none;
+    border: 10px solid #2e3c64;
+    font-size:5rem;
+    line-height:2;
+    font-family:"arvo";
+    font-weight: 900;
+    color:#e4076b;
+    border-radius: 15px;
+    display:inline-block;
+    height:150px;
+    width:150px;
+    text-align:center;
+    margin: 10px;
+    background-color: rgb(63, 154, 245);
+
+}
+
+.set {
+    margin: 10% auto;}
+
+.a{
+    background-image:url("images/crash.png");
+}
+
+.b{
+    background-image: url("images/kick.png");
+}
+
+.c{
+    background-image: url("images/snare.png");
+}
+
+.d{
+    background-image: url("images/tom1.png");
+}
+
+.e{
+    background-image: url("images/tom2.png");
+}
+
+.f{
+    background-image: url("images/tom3.png");
+}
+
+.g{
+    background-image: url("images/tom4.png");
+}
